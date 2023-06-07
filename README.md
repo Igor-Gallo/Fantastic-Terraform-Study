@@ -61,15 +61,11 @@ Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) 
 <p align="center">
 Se você tiver alguma dúvida, sugestão ou feedback, não hesite em me contatar:
 </p>
+
 GitHub: Igor-Gallo
+
 Email: igorgallo17@gmail.com
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Igor-Gallo&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Igor-Gallo&theme=tokyonight" />
-</p>
 <p align="center">
 ⭐️ From [Igor-Gallo](https://github.com/seu_username)
 </p>
