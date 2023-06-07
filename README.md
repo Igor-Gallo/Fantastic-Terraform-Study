@@ -27,7 +27,7 @@ Clone este repositório usando o seguinte comando:
 </p>
 
 ```bash
-git clone https://github.com/seu_username/seu_repositorio.git
+git clone https://github.com/Igor-Gallo/Fantastic-Terraform-Study.git
 
 ```
 
