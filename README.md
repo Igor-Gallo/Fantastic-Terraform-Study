@@ -1,7 +1,7 @@
 <h1 align="center">IaC Learning & Study Repository 🌐</h1>
 
 <p align="center">
-  <img src="https://www.hubpng.com/files/preview/529x593/png-transparent-terraform-icon-png-transparent-11682611245uvg4vcustqf8rfb6yaab4xwm9rghtonqmbzaqdztxuwgrzjvvue0pmygrfrnir8wbrxws1zboczomsdpf4kta.png" alt="imagem de Terraform"/>
+  <img src="https://www.datocms-assets.com/58478/1640019487-og-image.png" alt="imagem de Terraform"/>
 </p>
 
 <h2 align="center">Sobre 📚</h2>
