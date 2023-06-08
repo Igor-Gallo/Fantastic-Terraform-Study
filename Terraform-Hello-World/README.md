@@ -4,9 +4,9 @@ Este tutorial irá guiá-lo através da instalação e configuração do Terrafo
 
 ## 📝 Índice
 
-1. [Introdução](## 🌟 introdução)
+1. [Introdução](🌟 introdução)
 
-2. [Pré-requisitos](## 🎯 Pré-requisitos)
+2. [Pré-requisitos](🎯 Pré-requisitos)
 
    - [Instalação do Cliente Git](instalação-do-cliente-git)
 
