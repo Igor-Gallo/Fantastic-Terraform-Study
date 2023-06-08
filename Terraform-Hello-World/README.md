@@ -4,21 +4,21 @@ Este tutorial irá guiá-lo através da instalação e configuração do Terrafo
 
 ## 📝 Índice
 
-1. [Introdução](🌟 introdução)
+1. [Introdução]
 
-2. [Pré-requisitos](🎯 Pré-requisitos)
+2. [Pré-requisitos]
 
-   - [Instalação do Cliente Git](instalação-do-cliente-git)
+      - [Instalação do Cliente Git]
 
-   - [Instalação do Cliente Terraform](instalação-do-cliente-terraform)
+      - [Instalação do Cliente Terraform]
 
-3. [Clonagem do Repositório do GitHub](clonagem-do-repositório-do-github)
+3. [Clonagem do Respositório]
 
-4. [Configurando as Credenciais de Acesso ao Provedor de Cloud](#-configurando-as-credenciais-de-acesso-ao-provedor-de-cloud)
+4. [Configurando as Credenciais de Acesso ao Provedor de Cloud]
 
-5. [Planejando e Aplicando o Código Terraform na Cloud](#-planejando-e-aplicando-o-código-terraform-na-cloud)
+5. [Planejando e Aplicando o Código Terraform na Cloud]
 
-6. [Limpeza dos Recursos Criados pelo Código Terraform na Cloud](#-limpeza-dos-recursos-criados-pelo-código-terraform-na-cloud)
+6. [Limpeza dos Recursos Criados pelo Código Terraform na Cloud]
 
 
 ## 🌟 introdução
