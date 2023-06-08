@@ -151,7 +151,7 @@ A infraestrutura que o Terraform pode gerenciar inclui componentes de baixo nív
    - Pelo Visual Studio Code:
 
       1. 
-         ![Clone Repository](/hello/images/clone-repository.png)
+         ![Clone Repository](/Terraform-Hello-World/images/clone-repository.png)
 
    - Pelo terminal:
     ```
@@ -179,11 +179,11 @@ A infraestrutura que o Terraform pode gerenciar inclui componentes de baixo nív
 
       2.1 - Acessar "minhas credenciais de segurança" na aba Links Rápidos.
 
-         ![Acesso ás credenciais](/hello/images/acesso-de-credenciais.png)
+         ![Acesso ás credenciais](/Terraform-Hello-World/images/acesso-de-credenciais.png)
 
       2.2 - Realizar a criação da Access & Secret keys. Lembre -se de anotar estas credenciais em algum lugar, pois depois não terá mais como consulta-lás.
 
-         ![Criação das credenciais](/hello/images/criacao-de-credenciais.png)
+         ![Criação das credenciais](/Terraform-Hello-World/images/criacao-de-credenciais.png)
 
       2.3 - copiar essas variaveis com este formato no terminal do Visual Code:
 
