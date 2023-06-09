@@ -2,7 +2,7 @@
 
 1. Realize a criação da Arquitetura Abaixo.
 
-    ![Arquitetura](/Atividade-EC2/images/arquitetura-nagios.png)
+    ![Arquitetura](/Terraform-AWS/Atividade-EC2/images/arquitetura-nagios.png)
     
     1.1. Na máquina ***nagios*** instale e configure o software ***Nagios Core***.
     
