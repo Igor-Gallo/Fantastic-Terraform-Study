@@ -1,4 +1,4 @@
-# Checkpoint 01
+# Atividade 01 - EC2
 
 1. Realize a criação da Arquitetura Abaixo.
 
