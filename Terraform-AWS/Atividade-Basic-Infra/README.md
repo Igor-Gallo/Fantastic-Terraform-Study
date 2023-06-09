@@ -1,8 +1,8 @@
-<h1 align="center"> 🌐 Atividade 01 - EC2 </h1>
+<h1 align="center"> 🌐 Atividade 02 - Basic Infra </h1>
 
 1. Realize a criação da Arquitetura Abaixo.
 
-    ![Arquitetura](/Terraform-AWS/Atividade-EC2/images/arquitetura-nagios.png)
+    ![Arquitetura](/Terraform-AWS/Atividade-Basic-Infra/images/basic-infra.drawio.png)
     
     1.1. Na máquina ***nagios*** instale e configure o software ***Nagios Core***.
     

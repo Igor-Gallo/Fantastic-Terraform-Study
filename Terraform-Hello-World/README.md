@@ -1,4 +1,4 @@
-# 🌐 Terraform Tutorial
+<h1 align="center"> 🌐 Terraform Tutorial </h1>
 
 Este tutorial irá guiá-lo através da instalação e configuração do Terraform, um cliente Git, e como usar o Terraform para gerenciar recursos na cloud.
 
