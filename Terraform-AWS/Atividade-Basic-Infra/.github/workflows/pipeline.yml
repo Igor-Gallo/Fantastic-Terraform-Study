@@ -1,4 +1,4 @@
-name: Criação da Infraestrutura e Instalação do Prowler
+name: Criação da Infraestrutura
 
 on:
   push:
