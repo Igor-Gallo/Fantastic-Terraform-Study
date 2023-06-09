@@ -12,10 +12,10 @@
   
 # Organização do repositório
 
-A raiz do repositório deve conter apenas o diretório com o nome ***Terraform-EC2-Atividade-01***. Dentro deste diretório, você deve criar um subdiretório com seu ***nome completo*** e dentro do seu diretório deve conter o template Terraform, conforme exemplo abaixo:
+A raiz do repositório deve conter apenas o diretório com o nome ***Atividade-basic-Infra***. Dentro deste diretório, você deve criar um subdiretório com seu ***nome completo*** e dentro do seu diretório deve conter o template Terraform, conforme exemplo abaixo:
 
 ```
-├── Terraform-EC2-Atividade-01
+├── Atividade-Basic-Infra
 │   └── (NomedaPessoa)
 │       └── template.tf
 ```
