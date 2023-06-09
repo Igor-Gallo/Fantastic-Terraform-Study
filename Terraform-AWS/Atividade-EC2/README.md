@@ -2,7 +2,7 @@
 
 1. Realize a criação da Arquitetura Abaixo.
 
-    ![Arquitetura](/Terraform-EC2-Atividade-01/images/arquitetura-nagios.png)
+    ![Arquitetura](/Atividade-EC2/images/arquitetura-nagios.png)
     
     1.1. Na máquina ***nagios*** instale e configure o software ***Nagios Core***.
     
