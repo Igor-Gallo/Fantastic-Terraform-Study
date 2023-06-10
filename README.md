@@ -67,6 +67,6 @@ GitHub: Igor-Gallo
 Email: igorgallo17@gmail.com
 
 <p align="center">
-⭐️ From Igor-Gallo(https://github.com/seu_username)
+⭐️ From Igor-Gallo(https://github.com/Igor-Gallo)
 </p>
 ```
